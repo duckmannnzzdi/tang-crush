@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Nhiều chút nhớ bé nên nghịch mụt xíu',
-    introDesc: `Tuy là mình đang hơi xa nhau mụt chút nhưng mà mình không giận nhau hay hiểu lầm nhau gì bé nhó`,
+    introDesc: `Tuy là mình đang hơi xa nhau mụt chút nhưng mà mình không mà trái tym với tâm trí anh chỉ có mỗi bé hoiii`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
